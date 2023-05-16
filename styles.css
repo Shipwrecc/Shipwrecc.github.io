@@ -1,0 +1,17 @@
+/* https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_button_css */
+#troll_button {
+    padding: 200px 200px;
+    text-align: center;
+    font-size: 30px;
+    background-color: red;
+    /* https://www.w3schools.com/css/tryit.asp?filename=trycss_border-style */
+    border-style: solid;
+    /* https://www.w3schools.com/cssref/pr_border-width.php */
+    border-width: thick;
+    /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_round_buttons */
+    border-radius: 50%;
+}
+
+body {
+    background-color: limegreen;
+}
